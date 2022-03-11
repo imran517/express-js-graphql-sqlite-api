@@ -1,11 +1,11 @@
 {
-  "name": "express-js-sqlite-async-api",
+  "name": "express-js-graphql-sqlite-api",
   "version": "1.0.0",
-  "description": "express-js-sqlite-async-api",
+  "description": "express-js-graphql-sqlite-api",
   "main": "server.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/imran517/express-js-sqlite-async-api.git"
+    "url": "git+https://github.com/imran517/express-js-graphql-sqlite-api.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
