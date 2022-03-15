@@ -37,9 +37,9 @@ A simple api using express.js and sqlite with async/await
 * **dbContext (dbContext.js)**
 
   - handles db connection
-* **database (mongodb community server)**
+* **database (sqlite)**
 
-  - mongodb database
+  - sqlite database
 
 ## Run
 
